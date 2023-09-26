@@ -1,0 +1,932 @@
+orgs:
+  allmende:
+    admins:
+      - almereyda
+    billing_email: almereyda+allmende@gmail.com
+    company: ""
+    default_repository_permission: none
+    description: '{ a linked wiki approach to real-time semantic data publishing }'
+    email: text@allmende.io
+    has_organization_projects: true
+    has_repository_projects: true
+    location: Europe
+    members_can_create_repositories: false
+    name: allmende.io
+    repos:
+      .github:
+        default_branch: main
+        has_projects: true
+      1pxdeep:
+        description: Bootstrap theme featuring powerful color scheme controls and a flat design
+        has_issues: false
+        has_projects: true
+        homepage: http://rriepe.github.io/1pxdeep/
+      Bookie:
+        default_branch: develop
+        description: Python based delicious.com replacement
+        has_issues: false
+        has_projects: true
+        homepage: http://bmark.us
+      Creative-Commons-Markdown:
+        default_branch: spaces
+        description: Markdown-formatted Creative Commons licenses
+        has_issues: false
+        has_projects: true
+      Falkland-CMS:
+        description: Falkland CMS is a Curation Management System written in Clojure, ClojureScript and CouchDB.
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+      Hybrid-Publishing-Resources:
+        description: All the resources INC develops for its hybrid publishing practices.
+        has_issues: false
+        has_projects: true
+      LDPjs:
+        description: W3C Linked Data Platform (LDP) reference implementation using Node.js and MongoDB
+        has_issues: false
+        has_projects: true
+      Lychee:
+        description: Lychee is an easy to use and great looking photo-management-system you can run on your server, to manage and share photos.
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: http://lychee.electerious.com
+      MediaCrush:
+        description: A website for sharing media
+        has_issues: false
+        has_projects: true
+        homepage: https://mediacru.sh
+      Navigataur:
+        description: A pure CSS responsive navigation menu
+        has_issues: false
+        has_projects: true
+        homepage: http://micjamking.github.com/Navigataur/
+      NewsBlur:
+        description: NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: http://www.newsblur.com
+      Occupy.net:
+        description: occupy.net
+        has_issues: false
+        has_projects: true
+        homepage: http://occupy.net
+      OntoWiki:
+        default_branch: develop
+        description: Semantic data wiki as well as Linked Data publishing engine
+        has_issues: false
+        has_projects: true
+        homepage: http://ontowiki.net
+      Play20:
+        default_branch: 2.3.7-TLS
+        description: Play framework 2.0
+        has_issues: false
+        has_projects: true
+        homepage: http://www.playframework.org/2.0
+      Portus:
+        description: Authorization service and frontend for Docker registry (v2)
+        has_issues: false
+        has_projects: true
+        homepage: http://port.us.org/
+      Qowala:
+        description: A Twitter Dashboard
+        has_issues: false
+        has_projects: true
+      Rallly:
+        description: Rallly is a free collaborative scheduling service
+        has_issues: false
+        has_projects: true
+        homepage: http://rallly.co
+      Server.js:
+        description: A Basic Linked Data Fragments server for JavaScript
+        has_issues: false
+        has_projects: true
+        homepage: http://linkeddatafragments.org/
+      Society-of-the-Query-Reader:
+        description: Reflections on Web Search
+        has_issues: false
+        has_projects: true
+        homepage: http://networkcultures.org/query/
+      Spellbook:
+        description: Design Document Recipes & Reference
+        has_issues: false
+        has_projects: true
+      StayPuft:
+        description: A fork of Casper, the default theme for Ghost
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+      Telescope:
+        description: An open-source social news app built with Meteor
+        has_issues: false
+        has_projects: true
+        homepage: http://telesc.pe
+      The-Next-Edge-Report:
+        description: 'Leaving Facebook : Test with OuiShare Labs group.'
+        has_projects: true
+        has_wiki: false
+        homepage: http://edge.allmende.io
+      ZeroTierOne:
+        description: Create flat virtual Ethernet networks of almost unlimited size.
+        has_issues: false
+        has_projects: true
+        homepage: https://www.zerotier.com/
+      allmende.github.io:
+        description: Website
+        has_projects: true
+        has_wiki: false
+        homepage: https://allmende.io
+      arm-docker-experiments:
+        description: A docker image for ARM fedwiki image
+        has_issues: false
+        has_projects: true
+      awesome-data-ui:
+        default_branch: gh-pages
+        description: Open source projects, demos, paid services, etc. that demonstrate approaches to editing & managing data through a user interface.
+        has_issues: false
+        has_projects: true
+      backchan.nl:
+        description: backchan.nl is a tool for involving audiences in presentations by letting them suggest questions and vote on each other's questions.
+        has_issues: false
+        has_projects: true
+        homepage: http://backchan.nl/
+      broadcast:
+        description: Real-Time NodeJS Chat Application as Plug-In for the Smallest Federated Wiki
+        has_issues: false
+        has_projects: true
+        homepage: http://chat.allmende.io/
+      buildingCommons:
+        description: 'This is a Cross Project for dev-Common structures, listing all final structures of any common good application '
+        has_issues: false
+        has_projects: true
+      buildout:
+        description: The code that goes into the GroupServer tar-ball.
+        has_issues: false
+        has_projects: true
+      cakephp:
+        description: 'CakePHP: The Rapid Development Framework for PHP - Official Repository'
+        has_issues: false
+        has_projects: true
+        homepage: http://cakephp.org
+      civicpatterns.org:
+        default_branch: gh-pages
+        description: A collection of design patterns and best practice for the civic community.
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: http://civicpatterns.org
+      commonplace:
+        description: A server for your markdown files. Give it a directory, and Commonplace gives you a url, pretty pages, and quick editing.
+        has_issues: false
+        has_projects: true
+        homepage: http://helloform.com/projects/commonplace/
+      convos:
+        description: Better group chat
+        has_issues: false
+        has_projects: true
+        homepage: http://convos.by
+      cotoami:
+        default_branch: develop
+        description: Cotoami is a platform where people can weave a large network of wisdom from tiny ideas.
+        has_issues: false
+        has_projects: true
+        homepage: https://medium.com/@cotoami/cotoami-an-experimental-note-taking-app-focusing-on-connecting-734928d53d2c
+      cozy-setup:
+        description: Cozy installation files and information
+        has_issues: false
+        has_projects: true
+        homepage: http://cozy.io
+      cypht-docker:
+        description: Docker image setup files to run Cypht
+        has_projects: true
+      directory.federated.cc:
+        description: Directory of individuals and organisations within the federated commons cloud
+        has_projects: true
+        homepage: https://directory.federated.cc
+      discourse:
+        description: Discourse application for allmende.io network
+        has_issues: false
+        has_projects: true
+        homepage: https://meta.allmende.io
+      dnscrypt-server-docker:
+        description: A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver
+        has_issues: false
+        has_projects: true
+      docker-alpine:
+        description: Docker containers running Alpine linux and s6 for process management. Sold, reliable containers.
+        has_issues: false
+        has_projects: true
+      docker-bookstack:
+        description: A dockerized version of BookStack
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+      docker-cheat-sheet:
+        description: Docker Cheat Sheet
+        has_issues: false
+        has_projects: true
+      docker-compose-freeipa-ipsilon:
+        has_projects: true
+      docker-compose-mist.io:
+        has_projects: true
+      docker-coturn:
+        description: TURN server for Matrix
+        has_projects: true
+      docker-fiduswriter:
+        description: Docker image for fiduswriter collaborative writing tool
+        has_issues: false
+        has_projects: true
+        homepage: https://hub.docker.com/r/moritzf/fiduswriter/
+      docker-ghost:
+        description: Ghost Dockerfile + docker compose w/ MySQL
+        has_issues: false
+        has_projects: true
+      docker-hackmd:
+        description: docker hackmd  image
+        has_issues: false
+        has_projects: true
+        homepage: https://hack.allmende.io
+      docker-ipfs:
+        has_projects: true
+      docker-ipsilon:
+        description: Ipsilon IdP in a Docker container
+        has_projects: true
+      docker-kanboard:
+        description: Dockerfile to build latest stable Kanboard release
+        has_projects: true
+        has_wiki: false
+      docker-known:
+        description: Run the Known social publishing platform in a Docker container!
+        has_issues: false
+        has_projects: true
+      docker-mailman:
+        description: All in one Mailman container
+        has_issues: false
+        has_projects: true
+        homepage: https://hub.docker.com/r/macropin/mailman/
+      docker-matrix:
+        description: docker composition of images for a Matrix home server with Riot interface and coturn
+        has_projects: true
+        has_wiki: false
+        homepage: https://riot.allmende.io
+      docker-nuxeo:
+        description: Simple docker image to run Nuxeo
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+      docker-phraseanet:
+        has_issues: false
+        has_projects: true
+      docker-piwik:
+        description: Dockerized Piwik - Small Alpine Image with Nginx and PHP 7.1
+        has_issues: false
+        has_projects: true
+        homepage: https://hub.docker.com/r/insekticid/docker-piwik/
+      docker-prometheus:
+        default_branch: version-2
+        description: A docker-compose stack for Prometheus monitoring
+        has_issues: false
+        has_projects: true
+      docker-prosody:
+        description: A docker container for the Prosody XMPP server.
+        has_issues: false
+        has_projects: true
+      docker-resourcespace:
+        description: Unofficial ResourceSpace docker image
+        has_issues: false
+        has_projects: true
+      docker-restyaboard:
+        description: Build Restyaboard on Docker.
+        has_issues: false
+        has_projects: true
+        homepage: https://github.com/RestyaPlatform/board
+      docker-synapse:
+        description: Matrix homeserver
+        has_projects: true
+      docker-taiga:
+        description: Docker container for Taiga https://taiga.io
+        has_issues: false
+        has_projects: true
+        homepage: https://hub.docker.com/r/benhutchins/taiga/
+      docker-vector:
+        description: Vector client for Matrix
+        has_projects: true
+      docker_monitoring_logging_alerting:
+        description: 'Docker host and container monitoring, logging and alerting out of the box using cAdvisor, Prometheus, Grafana for monitoring, Elasticsearch, Kibana and Logstash for logging and elastalert and Alertmanager for alerting. '
+        has_issues: false
+        has_projects: true
+      dockerfiles:
+        description: ':whale: Dockerfiles'
+        has_projects: true
+        homepage: https://hub.docker.com/u/vimagick/
+      dossier.allmende.io:
+        default_branch: gh-pages
+        description: A thankful i18n of a hackfoldr ui improvement inspired by moztw
+        has_projects: true
+        has_wiki: false
+        homepage: http://hack.transforlab.net/
+      dox:
+        description: Notes and cheat sheets on various topics
+        has_issues: false
+        has_projects: true
+      draw.io:
+        description: obsolete jgraph/draw.io open source repo, become live again!
+        has_issues: false
+        has_projects: true
+      echoplexus:
+        description: Socket.io powered chat, JavaScript REPL, whiteboard, and WebRTC calls
+        has_issues: false
+        has_projects: true
+        homepage: https://echoplex.us
+      enclose:
+        description: Compile your node.js project into an executable
+        has_issues: false
+        has_projects: true
+        homepage: http://enclosejs.com
+      entermediadb-docker:
+        has_issues: false
+        has_projects: true
+      epubplayer:
+        has_issues: false
+        has_projects: true
+      epubster:
+        description: A web application to create and edit EPUBs, written in CakePHP.
+        has_issues: false
+        has_projects: true
+      fiduswriter:
+        default_branch: develop
+        description: Fidus Writer is an online collaborative editor for academics.
+        has_issues: false
+        has_projects: true
+        homepage: https://fiduswriter.org
+      fraktur:
+        has_issues: false
+        has_projects: true
+      frontend:
+        description: The official @github repository of the Trovebox frontend software. A photo sharing and photo management web interface for data stored "in the cloud" (i.e. Amazon S3, Rackspace CloudFiles, Google Storage).
+        has_issues: false
+        has_projects: true
+        homepage: https://trovebox.com
+      ghostHunter:
+        description: A Ghost blog search engine
+        has_issues: false
+        has_projects: true
+      ghostwriter:
+        description: A simple AJAX driven theme for Ghost.
+        has_projects: true
+        has_wiki: false
+      gitbucket:
+        description: The easily installable GitHub clone powered by Scala
+        has_issues: false
+        has_projects: true
+        homepage: http://takezoe.github.io/gitbucket/
+      github-issues-to-discourse:
+        has_issues: false
+        has_projects: true
+      go-ipfs:
+        description: ipfs implementation in go
+        has_issues: false
+        has_projects: true
+        homepage: https://github.com/ipfs/ipfs
+      gollum:
+        description: A simple, Git-powered wiki with a sweet API and local frontend.
+        has_issues: false
+        has_projects: true
+      hacktabl:
+        default_branch: dev
+        description: Comparison table generator, using Ethercalc and Google Doc as the content backend.
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: http://hacktabl.org
+      highcharts-editor:
+        has_issues: false
+        has_projects: true
+      hybrideditor:
+        description: Pandoc + Ace + Markdown
+        has_issues: false
+        has_projects: true
+      idealist:
+        description: Nsmg Idealist
+        has_issues: false
+        has_projects: true
+      iframely:
+        description: oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
+        has_issues: false
+        has_projects: true
+        homepage: https://iframely.com
+      img.bi:
+        description: img.bi main website
+        has_issues: false
+        has_projects: true
+        homepage: https://img.bi
+      img.bi-api:
+        description: Python part of img.bi which process POST- and GET- requests.
+        has_issues: false
+        has_projects: true
+        homepage: https://img.bi
+      img.bi.js:
+        description: ' Embed images from sites based on img.bi software.'
+        has_issues: false
+        has_projects: true
+        homepage: https://img.bi/#js
+      indieauth-openid:
+        description: Mirror of http://git.cweiske.de/indieauth-openid.git/
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+      indx:
+        description: INDX Server
+        has_issues: false
+        has_projects: true
+        homepage: http://sociam.github.io/
+      isso:
+        description: a Disqus alternative
+        has_issues: false
+        has_projects: true
+        homepage: https://posativ.org/isso/
+      j:
+        description: a blogging platform built on [matrix]
+        has_issues: false
+        has_projects: true
+      jiffy:
+        description: Jiffy - JavaScript File Editor
+        has_issues: false
+        has_projects: true
+      jsreports:
+        has_issues: false
+        has_projects: true
+      k8s-etcd:
+        description: Docker container for etcd-on-Kubernetes
+        has_issues: false
+        has_projects: true
+      kanban:
+        description: Lean project management for GitLab
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: http://kanban.leanlabs.io
+      kanboard:
+        description: Simple visual task board
+        has_projects: true
+        has_wiki: false
+        homepage: http://kanboard.net
+      kanboard-1:
+        description: Docker images for kanboard
+        has_issues: false
+        has_projects: true
+      kitsune:
+        description: Platform for Mozilla Support
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: http://support.mozilla.com/
+      kleks:
+        description: Kleks - Pure CouchDB based CMS as a Couch App using Kanso with CoffeeScript and Stylus. Supports multi-site setup and Markdown authoring.
+        has_issues: false
+        has_projects: true
+        homepage: http://markuso.github.io/kleks
+      known:
+        description: Known application for Commons Cloud network
+        has_issues: false
+        has_projects: true
+      kuma:
+        description: The project that powers MDN.
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: https://developer.mozilla.org
+      laboard:
+        description: '[READONLY] A kanban board made for Gitlab.'
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: https://gitlab.com/laboard/laboard
+      lamernews:
+        description: Lamer News -- an HN style social news site written in Ruby/Sinatra/Redis/JQuery
+        has_issues: false
+        has_projects: true
+        homepage: http://lamernews.com
+      ldapp:
+        has_issues: false
+        has_projects: true
+      linx-server:
+        description: Self-hosted file/code/media sharing website
+        has_issues: false
+        has_projects: true
+      livechat-elm:
+        description: The LiveChat repository, except with Elm powering the chat code
+        has_issues: false
+        has_projects: true
+      livenote:
+        description: http://www.livenote.org real-time note collaboration platform
+        has_issues: false
+        has_projects: true
+      lobsters:
+        description: Rails code running the lobste.rs link aggregation site
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: https://alternatives.berlin
+      loris-docker:
+        default_branch: development
+        description: Loris docker image suitable for development environments
+        has_issues: false
+        has_projects: true
+      lstu:
+        description: Lightweight URL shortener
+        has_issues: false
+        has_projects: true
+        homepage: https://te.gs
+      lutim:
+        description: Let's Upload That Image !
+        has_issues: false
+        has_projects: true
+        homepage: https://lutim.allmende.io
+      mailman-compose:
+        description: Docker compose files for GNU Mailman
+        has_issues: false
+        has_projects: true
+      mailtrain:
+        description: Self hosted newsletter app
+        has_issues: false
+        has_projects: true
+        homepage: https://mailtrain.org/
+      markdown-it:
+        description: Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+        has_issues: false
+        has_projects: true
+        homepage: https://markdown-it.github.io
+      mastodon:
+        description: A GNU Social-compatible microblogging server
+        has_issues: false
+        has_projects: true
+        homepage: https://mastodon.social
+      matrix-appservice-slack:
+        description: A Matrix <--> Slack bridge
+        has_issues: false
+        has_projects: true
+      matrix-appservice-slack-api:
+        description: An appservice for Matrix.org Homeservers that exposes an API that mirrors Slack's RTM API.
+        has_issues: false
+        has_projects: true
+      matrix-riot-docker:
+        description: riot.im webclient in a container
+        has_projects: false
+      matterbridge:
+        description: bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocket.chat,hipchat (via xmpp), steam and matrix with REST API
+        has_issues: false
+        has_projects: true
+      mdwiki:
+        description: CMS/Wiki system using Javascript for 100% client side single page application using Markdown.
+        has_issues: false
+        has_projects: true
+      metacademy-application:
+        description: Metacademy.org's application code
+        has_issues: false
+        has_projects: true
+        homepage: http://www.metacademy.org
+      metacademy-content:
+        description: content repository for metacademy.org
+        has_issues: false
+        has_projects: true
+        homepage: metacademy.org
+      microjs.com:
+        description: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
+        has_issues: false
+        has_projects: true
+        homepage: http://microjs.com/
+      migration-to-0.5.0:
+        has_issues: false
+        has_projects: true
+      neo-quitter:
+        description: Theme for GNU Social
+        has_issues: false
+        has_projects: true
+      nextcloud:
+        description: Nextcloud application for IndieHosters
+        has_projects: true
+      niltalk:
+        description: A multi-room disposable chat service written in Go that uses WebSockets for live communication.
+        has_issues: false
+        has_projects: true
+      nsupdate.info:
+        description: Dynamic DNS service
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: https://nsupdateinfo.readthedocs.org/
+      officeonlin-install.sh:
+        description: 'Script to install Office Online on Ubuntu 16.04 '
+        has_issues: false
+        has_projects: true
+      ofn-docker:
+        description: Open Food Network production deployment, based on Docker Compose
+        has_projects: true
+        homepage: https://ofn.allmende.io
+      ontowiki.docker:
+        description: A dockerfile to create an image providing a full OntoWiki installation.
+        has_issues: false
+        has_projects: true
+      openopensource.github.io:
+        description: http://openopensource.org
+        has_issues: false
+        has_projects: true
+      organizing-on-github:
+        description: because github is for people, not just source code!
+        has_issues: false
+        has_projects: true
+      osem:
+        description: Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.
+        has_issues: false
+        has_projects: true
+        homepage: http://osem.io
+      panamax-ui:
+        description: The Web GUI for Panamax
+        has_issues: false
+        has_projects: true
+        homepage: http://panamax.io
+      pdns-fig:
+        has_issues: false
+        has_projects: true
+      perma:
+        default_branch: develop
+        description: Indelible links
+        has_issues: false
+        has_projects: true
+      perma-assets:
+        description: These are the images, originals and compressed, that are used in perma.cc
+        has_issues: false
+        has_projects: true
+      phorkie:
+        description: Self-hosted pastebin software written in PHP. Pastes are editable, forkable, may have multiple files and are stored in git repositories.
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: https://sourceforge.net/p/phorkie
+      plp-converters:
+        has_issues: false
+        has_projects: true
+      pluginGeek:
+        description: Discover great Ruby gems and Javascript plugins. Like AirBnB but for Space Travel.
+        has_issues: false
+        has_projects: true
+        homepage: http://www.plugingeek.com
+      qvitter:
+        description: UI for GNU Social
+        has_issues: false
+        has_projects: true
+      react-foaf:
+        description: foaf AddressBook for LDP written with react.js
+        has_issues: false
+        has_projects: true
+      realms-wiki:
+        description: Git based wiki inspired by Gollum
+        has_issues: false
+        has_projects: true
+        homepage: http://realms.io
+      resourcespace-docker:
+        description: ResourceSpace image for docker
+        has_issues: false
+        has_projects: true
+      rww-play:
+        default_branch: dev
+        description: read write web Play
+        has_issues: false
+        has_projects: true
+      rww.io:
+        description: Read Write Web semantic cloud.
+        has_issues: false
+        has_projects: true
+      sed:
+        default_branch: gh-pages
+        description: GNU sed REPL
+        has_issues: false
+        has_projects: true
+      shout:
+        description: Node.js IRC client for the browser
+        has_issues: false
+        has_projects: true
+        homepage: http://shout-irc.com/
+      sketch-n-sketch:
+        description: Prodirect Manipulation for SVG
+        has_issues: false
+        has_projects: true
+        homepage: http://ravichugh.github.io/sketch-n-sketch
+      source.allmende.io:
+        description: Hackpad is a web-based realtime wiki.
+        has_projects: true
+        has_wiki: false
+        homepage: https://source.allmende.io
+      stream-handbook:
+        description: how to write node programs with streams
+        has_issues: false
+        has_projects: true
+      synapse-prometheus-config:
+        description: Configuration for prometheus to monitor synape
+        has_issues: false
+        has_projects: true
+      synnefo:
+        default_branch: develop
+        description: Synnefo is open source cloud software, used to create massively scalable IaaS clouds.
+        has_issues: false
+        has_projects: true
+      tahi:
+        description: Modern workflow platform
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+      tahoe-lafs:
+        description: The Tahoe-LAFS decentralized secure filesystem.
+        has_issues: false
+        has_projects: true
+        homepage: https://tahoe-lafs.org/
+      taiga-docker:
+        description: Docker scripts to run your own Taiga
+        has_issues: false
+        has_projects: true
+      teem:
+        description: Teem is a web tool and mobile app for collaboration in communities, which facilitates onboarding of newcomers
+        has_issues: false
+        has_projects: true
+        homepage: http://teem.works/
+      the-law-factory:
+        description: software developed for the law factory project
+        has_issues: false
+        has_projects: true
+      themostdangerouswritingapp:
+        default_branch: gh-pages
+        description: If you stop typing for more than five seconds, all progress will be lost.
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: http://www.themostdangerouswritingapp.com
+      twemoji:
+        default_branch: gh-pages
+        description: Twitter Emoji for Everyone
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: http://twitter.github.io/twemoji
+      tyyp:
+        description: An application level networking protocol to enable government controlled internets
+        has_issues: false
+        has_projects: true
+      unmark:
+        description: An open source to do app for links. Made by Plain.
+        has_issues: false
+        has_projects: true
+        homepage: http://unmark.it
+      urbit:
+        description: An Operating Function
+        has_issues: false
+        has_projects: true
+      url-expander:
+        description: JSON API for retrieving information about short URLs
+        has_issues: false
+        has_projects: true
+      usercontent:
+        description: Render user generated content with a different origin to the main application.
+        has_issues: false
+        has_projects: true
+      uxbox-docker:
+        description: Development enviroment in docker.
+        has_issues: false
+        has_projects: true
+      watchtower:
+        description: Docker images for watchtower
+        has_issues: false
+        has_projects: true
+      webrecorder:
+        description: Web Archiving For All!
+        has_issues: false
+        has_projects: true
+        homepage: https://webrecorder.io
+      webserviced:
+        description: simple web service daemon in node.js
+        has_issues: false
+        has_projects: true
+      wiki-client:
+        description: linkedwiki client npm module
+        has_projects: true
+        has_wiki: false
+        homepage: http://wiki.allmende.io
+      wiki-storage-couchdb:
+        description: CouchDB storage for Federated Wiki
+        has_issues: false
+        has_projects: true
+      wikibase-graph-builder:
+        description: Visualize Wikidata items using d3.js
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: https://wikibase-graph-builder.apps.allmende.io
+      xmpp-logger:
+        description: XMPP Multi-User Chat logger with web-interface written in Ruby
+        has_issues: false
+        has_projects: true
+        has_wiki: false
+        homepage: jabber.herokuapp.com
+    teams:
+      Owners:
+        description: ""
+        maintainers:
+          - almereyda
+        privacy: secret
+        repos:
+          1pxdeep: admin
+          Bookie: admin
+          Falkland-CMS: admin
+          Hybrid-Publishing-Resources: admin
+          LDPjs: admin
+          Lychee: admin
+          MediaCrush: admin
+          Navigataur: admin
+          NewsBlur: admin
+          Occupy.net: admin
+          OntoWiki: admin
+          Play20: admin
+          Server.js: admin
+          Society-of-the-Query-Reader: admin
+          StayPuft: admin
+          Telescope: admin
+          The-Next-Edge-Report: admin
+          ZeroTierOne: admin
+          allmende.github.io: admin
+          arm-docker-experiments: admin
+          backchan.nl: admin
+          broadcast: admin
+          buildingCommons: admin
+          buildout: admin
+          cakephp: admin
+          civicpatterns.org: admin
+          commonplace: admin
+          convos: admin
+          cozy-setup: admin
+          docker-cheat-sheet: admin
+          docker-known: admin
+          dossier.allmende.io: admin
+          dox: admin
+          draw.io: admin
+          echoplexus: admin
+          enclose: admin
+          epubplayer: admin
+          epubster: admin
+          fraktur: admin
+          frontend: admin
+          ghostHunter: admin
+          ghostwriter: admin
+          gitbucket: admin
+          go-ipfs: admin
+          gollum: admin
+          hybrideditor: admin
+          idealist: admin
+          img.bi: admin
+          img.bi-api: admin
+          img.bi.js: admin
+          indieauth-openid: admin
+          indx: admin
+          kanboard: admin
+          kleks: admin
+          laboard: admin
+          lamernews: admin
+          ldapp: admin
+          livenote: admin
+          lobsters: admin
+          lstu: admin
+          lutim: admin
+          markdown-it: admin
+          mdwiki: admin
+          metacademy-application: admin
+          metacademy-content: admin
+          microjs.com: admin
+          neo-quitter: admin
+          ontowiki.docker: admin
+          organizing-on-github: admin
+          panamax-ui: admin
+          perma: admin
+          perma-assets: admin
+          phorkie: admin
+          plp-converters: admin
+          pluginGeek: admin
+          qvitter: admin
+          react-foaf: admin
+          realms-wiki: admin
+          rww-play: admin
+          rww.io: admin
+          shout: admin
+          stream-handbook: admin
+          synnefo: admin
+          tahi: admin
+          tahoe-lafs: admin
+          taiga-docker: admin
+          the-law-factory: admin
+          twemoji: admin
+          tyyp: admin
+          unmark: admin
+          urbit: admin
+          webserviced: admin
+          wiki-client: admin
+          wiki-storage-couchdb: admin
+          xmpp-logger: admin
